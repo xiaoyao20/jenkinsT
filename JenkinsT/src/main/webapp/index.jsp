@@ -4,6 +4,5 @@
 <html>
 <body>
 <h2>Jenkins从github远程仓库发布到tomcat?看到这条消息就说明做到了.</h2>
-<%out.println("jsp的out对象输出的中文，你看到了吗？");%>
 </body>
 </html>
